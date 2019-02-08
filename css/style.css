@@ -1,0 +1,32 @@
+h2{
+  color:#DD2C00;
+  font-size: 38px;
+  font-family: 'Gentium Basic', serif;
+}
+h1{
+  font-size:70px;
+}
+span{
+  font-size: 30px; 
+  color: #3E2723;
+}
+
+a{
+  font-size: 30px; 
+  color: #3E2723;
+}
+
+a:hover {
+  color: #DD2C00;
+}
+
+p{
+  font-family: 'Noto Serif', serif;
+  font-size: 23px;
+}
+
+.container{
+  padding-left:150px;
+  padding-right:250px;
+  padding-top:100px;
+}
